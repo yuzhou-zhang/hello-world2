@@ -3,3 +3,4 @@ just another repository
 added from local and pushed to the remote.
 another change
 
+on branch dev
